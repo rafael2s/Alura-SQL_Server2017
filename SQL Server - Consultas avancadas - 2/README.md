@@ -13,6 +13,12 @@
 
 **Aula 03 - Mudando a apresentação dos dados uma consulta**
 
+- Como exibir as saídas de dados;
+- Como ordenar as consultas;
+- Como eliminar as linhas repetidas;
+- A agrupar linhas através de um critério e fazer cálculos dos registros agrupados;
+- A cláusula HAVING, para filtrar dados agrupados;
+
 **Aula 04 - Juntando tabelas e consultas**
 
 **Aula 05 - Funções do SQL Server**
