@@ -21,6 +21,11 @@
 
 **Aula 04 - Juntando tabelas e consultas**
 
+- Como juntar tabelas usando diversos tipos de JOIN;
+- Como unir consultas com os campos do mesmo tipo;
+- Como usamos sub-consultas;
+- O conceito de visão;
+
 **Aula 05 - Funções do SQL Server**
 
 **Aula 06 - Exemplos de ralatórios**
