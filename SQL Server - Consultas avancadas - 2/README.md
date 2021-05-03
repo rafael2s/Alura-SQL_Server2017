@@ -34,3 +34,5 @@
 
 **Aula 06 - Exemplos de ralatórios**
 
+- Como colocar em prática tudo que aprendemos, fazendo dois relatórios para nossa empresa de sucos de frutas.
+
