@@ -12,3 +12,8 @@
 - Aprendeu como tratar as restrições de chaves primárias;
 - Transportou os relacionamentos, demonstrados no diagrama de entidades e relacionamentos, para o esquema do banco de dados.
 
+**Aula 03 - Incluindo dados nas tabelas**
+
+- Como incluir dados em uma tabela;
+- Como as restrições de integridade afetam inclusões de dados fora dos padrões definidos no projeto do banco de dados;
+- Como ler dados de arquivos externos ou de outras tabelas de outros bancos de dados no SQL Server;
