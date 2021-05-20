@@ -17,3 +17,8 @@
 - Como incluir dados em uma tabela;
 - Como as restrições de integridade afetam inclusões de dados fora dos padrões definidos no projeto do banco de dados;
 - Como ler dados de arquivos externos ou de outras tabelas de outros bancos de dados no SQL Server;
+
+**Aula 04 - Alterando e excluindo dados da tabelas**
+
+- A alterar e excluir registros das tabelas, de diversas maneiras;
+- Como funciona uma transação e como podemos recuperar dados que foram alterados indevidamente.
