@@ -22,3 +22,11 @@
 
 - A alterar e excluir registros das tabelas, de diversas maneiras;
 - Como funciona uma transação e como podemos recuperar dados que foram alterados indevidamente.
+
+**Aula 05 - Auto-incremento, padrões e triggers**
+
+- Como trabalham os campos de auto-incremento;
+- Como podemos definir padrões para os campos;
+- A utilizar a TRIGGER para gerar ações no banco de dados;
+- Como usamos a propriedade de validação da tabela;
+- Como podemos efetuar manipulações de dados através de ferramentas de ETL e programação.
