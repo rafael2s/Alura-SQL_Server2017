@@ -16,3 +16,4 @@
 
 **Aula 05 - Tratamentento de erros**
 
+**Aula 06 - Cursor e um exemplo prático**
