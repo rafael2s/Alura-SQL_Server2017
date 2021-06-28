@@ -16,6 +16,10 @@
 
 **Aula 03 - Escrevendo funções**
 
+- Como funciona as funções no SQL Server;
+- Como ter uma tabela como resultado de uma função;
+- Como usar funções dentro de um loop;
+- Como alterar e excluir funções.
 
 **Aula 04 - Stored Procedures**
 
