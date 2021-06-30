@@ -23,6 +23,12 @@
 
 **Aula 04 - Stored Procedures**
 
+- A manipular Stored Procedures;
+- As SPs de cálculos e escalares;
+- Que existe SPs do sistema que podem ser usadas;
+- SPs com entradas de dados escalares e tabelas;
+- Como obter uma variável vinda de uma SP;
+- A alterar e excluir SPs.
 
 **Aula 05 - Tratamentento de erros**
 
