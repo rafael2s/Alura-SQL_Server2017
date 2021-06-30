@@ -32,4 +32,10 @@
 
 **Aula 05 - Tratamentento de erros**
 
+- Como tratar erros no T-SQL;
+- Como tratar erros pelas variáveis @@ERROR e @@ROWCOUNT;
+- Como usar a estrutura de TRY-CATCH para tratar os erros;
+- Algumas funções que auxiliam a criação de mensagens para o usuário, através do TRY-CATCH;
+- Como usar o debug para verificar um problema durante a execução do problema desta aula.
+
 **Aula 06 - Cursor e um exemplo prático**
