@@ -39,3 +39,7 @@
 - Como usar o debug para verificar um problema durante a execução do problema desta aula.
 
 **Aula 06 - Cursor e um exemplo prático**
+
+- A estrutura de cursores;
+- Como usamos cursores dentro de um loop para percorrer uma consulta de dados em memória;
+- Como criar uma Stored Procedure para criar uma venda de produto aleatória.
